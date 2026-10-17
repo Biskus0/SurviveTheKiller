@@ -19,5 +19,4 @@ if isSuccess == true then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Biskus0/UIConstructor/refs/heads/main/Mobile.lua"))()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Biskus0/SurviveTheKiller/refs/heads/main/Mobile%20Script.lua", true))()
     end
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Biskus0/SurviveTheKiller/refs/heads/main/Key.lua", true))()
 end
